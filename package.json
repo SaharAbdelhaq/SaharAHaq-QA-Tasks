@@ -1,0 +1,15 @@
+{
+  "name": "saharahaq-qa-tasks",
+  "version": "1.0.0",
+  "description": "Welcome to the **Cypress QA Training Tasks Repository**! This repository contains a comprehensive collection of tasks and solutions developed during the QA training course with Knowledge Academey, showcasing the use of Cypress for end-to-end testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.2"
+  }
+}
